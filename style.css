@@ -1,0 +1,25 @@
+
+.header2{
+    color: rebeccapurple;
+    font-size: 28px;
+}
+p{
+    font-size: 20 px;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border: 10px;
+    padding: 0px;
+    width: 12%;
+}
+
+
+
+
+
+* {
+    border: 2px solid red;
+  }
